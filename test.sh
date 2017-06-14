@@ -1,3 +1,5 @@
 #!/bin/bash
 
-echo "Hello world!"
+echo "Hello world!"\
+	 " "\
+	 "Brand new noop here!"
